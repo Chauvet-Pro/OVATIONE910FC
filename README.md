@@ -4,6 +4,9 @@
 
 ## Software Versions
 
+[V3.231221 - Ovation E-910FC](https://github.com/Chauvet-Pro/OVATIONE910FC/blob/4920fbc41b2c9882c4e172754b22ff45f76e64dd/Firmware/V3.231221.zip)
+- Added linear dimming improvements
+
 [V3.20220627 - Ovation E-910FC](https://github.com/Chauvet-Pro/OVATIONE910FC/blob/32e09c98f0a0827411e690f80c0bbf9fb8ba9b8b/Firmware/V3.20220627.zip)
 - Added X-Fade feature
 
