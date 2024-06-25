@@ -1,6 +1,6 @@
 # Ovation E-910FC
 
-### Please use UPLOADER 03 to update the Ovation E-910FC software, or to fix partial or total firmware failure.
+### Please use UPLOAD 03 to update the Ovation E-910FC software, or to fix partial or total firmware failure.
 
 &nbsp;
 
