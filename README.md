@@ -5,6 +5,11 @@
 
 ## Software Versions
 
+[V3.3.0 - Ovation E-910FC](https://github.com/Chauvet-Pro/OVATIONE910FC/blob/86a47b407c572c6310c801839a36c843f0144e82/Firmware/V3.3.0.zip)
+- ***NOTE: This software update is for the -2 version of the fixture, but is also backwards compatible and can be used with the original version.***
+- Updated to expand UID range for "-2" fixtures
+- Converted software file name to new version numbering scheme
+
 [V3.231221 - Ovation E-910FC](https://github.com/Chauvet-Pro/OVATIONE910FC/blob/4920fbc41b2c9882c4e172754b22ff45f76e64dd/Firmware/V3.231221.zip)
 - Added linear dimming improvements
 
